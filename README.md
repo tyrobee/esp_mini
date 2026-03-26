@@ -1,7 +1,7 @@
 # esp_mini
-A Esp  based flight controller 
+A Esp  based flight controller which is really tiny and can be controller through almost everything from your phone to anthor esp and cn also be used as swarn drones likw the drones which do all those cool drone lighting show. Actually i made this drone with that idea only ive been seen those swarn drones show in my school and wated to do smtg like that but there not a single affordable platform for that but you can achevie the same results with this drone at a really affordable range.
 
-##compnents 
+#compnents 
 - Xiao ESP32 S3 (FC)
 - MPU 6050
 - 8520 Coreless Motor 2xCW & 2xCCW
@@ -43,7 +43,6 @@ A Esp  based flight controller
 
 # PCB 
 The PCB is designed in Kicad 
-
 top -
 
 
