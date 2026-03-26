@@ -11,11 +11,10 @@ A Esp  based flight controller which is really tiny and can be controller throug
     • 1N4148 Diode 4x
     • 10k ohm Resistor 4X
 ## Frame
-
+![C](./photos/C.png)
 
 # Schematics
-  
-  Here is the break down of the connections 
+ Here is the break down of the connections 
   MOTORS-
   M1 --> A8
   M2 --> A3
@@ -44,9 +43,10 @@ A Esp  based flight controller which is really tiny and can be controller throug
 # PCB 
 The PCB is designed in Kicad 
 top -
-
+![PF](./photos/PF.png)
 
 bottom -
+![PB](./photos/PB.png)
 
 # Firmware
 
