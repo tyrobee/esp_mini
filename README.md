@@ -25,7 +25,7 @@ A Esp  based flight controller which is really tiny and can be controller throug
   SDA --> A4
   SCL --> A5
 
-  CRSF-
+  CRSF- (you can change this part but as i have a csrf radio i have done it for a csrf receiver)
   RX --> D7
   TX --> D6
 
